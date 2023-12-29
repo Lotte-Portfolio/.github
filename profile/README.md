@@ -1,9 +1,5 @@
-<p align="center">
-  ## 오늘을 새롭게, 내일을 이롭게 (New Today, Better Tomorrow)
-</p>
+## 오늘을 새롭게, 내일을 이롭게 (New Today, Better Tomorrow)
 
-
-<div align="center">
 #### 롯데 정보통신 백엔드 취업 포트폴리오
 
 |                  오태훈              |     
@@ -62,4 +58,3 @@
 |      Remove      |             파일, 폴더 삭제             |
 |      chore       |            빌드, 패키지 수정            |
 
-</div>
