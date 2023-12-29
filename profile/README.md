@@ -1,4 +1,6 @@
-## 오늘을 새롭게, 내일을 이롭게 (New Today, Better Tomorrow)
+<p align="center">
+  <strong>오늘을 새롭게, 내일을 이롭게 (New Today, Better Tomorrow)</strong>
+</p>
 
 #### 롯데 정보통신 백엔드 취업 포트폴리오
 
@@ -11,7 +13,9 @@
 
 ### 📚 Tech Stack
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery& perline="/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery& perline="/>
+</p>
 
 #### ⌛ Developed Period
 ##### 2023.12.29 ~ 진행중
