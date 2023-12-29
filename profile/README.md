@@ -11,9 +11,7 @@
 
 ### 📚 Tech Stack
 #### 💻 Development
-<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery& perline="/>
-</p>
 
 #### ⌛ Developed Period
 ##### 2023.12.29 ~ 진행중
